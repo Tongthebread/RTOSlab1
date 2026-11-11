@@ -1,0 +1,4 @@
+name = "hello"
+description = "An Ada Hello World program"
+version = "0.1.0-dev"
+executables = ["hello"]
