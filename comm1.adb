@@ -6,7 +6,7 @@ with Ada.Numerics.Discrete_Random;
 use Ada.Calendar;
 use Ada.Text_IO;
 
-
+-- ww
 procedure comm1 is
 
     subtype Item is Integer range 0 .. 20;
